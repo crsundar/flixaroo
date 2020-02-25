@@ -1,0 +1,26 @@
+body {
+	font-family: 'Arvo', serif;
+}
+.top {
+	background-color: brown;color:
+	white;padding: 10px;
+	text-shadow: 4px 4px 20px #000000;
+}
+.table, td, th {
+    border: 2px solid brown;
+}
+.newsletter {
+    background-color: grey;
+    text-align: center;
+    color: white;
+    padding-top: 5px;
+    margin-top: 40px;
+    margin-bottom: 15px
+}
+footer {
+	background-color: brown;
+    padding-top: 15px;
+    padding-bottom: 1px;
+    color: white;
+    text-align: center;
+}
